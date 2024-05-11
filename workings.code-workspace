@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../workings"
+		},
+		{
+			"path": "../../workings"
+		},
+		{
+			"path": "../../projectss"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
